@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boleto Pag Seguro Direto 0.4\n"
+"POT-Creation-Date: 2020-05-01 12:42-0300\n"
+"PO-Revision-Date: 2020-05-01 12:43-0300\n"
+"Last-Translator: \n"
+"Language-Team: clodoaldoevangelista@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:465
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:495
+msgid "System Settings"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:507
+msgid "System"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:519
+msgid "PHP Version"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:531
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP "
+"5.2)"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:547
+msgid "MySQL Version"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:559
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:579
+msgid "Settings"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:583
+msgid ""
+"If you don`t have a Pag Seguro account, click here and create one right now. "
+"If you create an account through this link and / or purchase a Mini, I will "
+"receive a commission from Pag Seguro. Thanks."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:647
+msgid "Save Changes"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:667
+msgid ""
+"<h3>Reset Pages: If the new version did not work then click the Reset Pages "
+"button.</h3>"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:669
+msgid ""
+"The pages containing the Data Form, Confirmation Form and Ticket Generation "
+"Page will be re-created. You`ll need to change the menus on your site so "
+"your customers can find them."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:677
+msgid "Reset Pages"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:719
+msgid "Instructions"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:724
+#: boleto/pages/pagamento-boleto.php:23
+msgid "This system does not work in sandbox "
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:726
+msgid ""
+"Go to the Wordpress Admin Panel; Plugins; Compra Direta Pag Seguro Boleto "
+"and change preferences."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:728
+#: boleto/pages/pagamento-boleto.php:25
+msgid "Needing a little help? I can help."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:734
+#: boleto/pages/pagamento-boleto.php:27
+msgid "SETTINGS"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:737
+msgid "Make a donation over $ 3 and receive full support."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:741
+#: boleto/pages/pagamento-boleto.php:30
+msgid "Click here to help!"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:743
+msgid ""
+"Generates the Compra Direta Pag Seguro Boleto without typing the password. "
+"Documents in sequential order."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:760
+msgid "Thank you very much for your donation."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:769
+msgid "Shortcode"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:777
+msgid ""
+"We`ve created three new pages for you. Check the list \"Pages\" and, if "
+"you \n"
+"\n"
+"          wish, leave it available to your customers. If you need to display "
+"the \n"
+"\n"
+"          form on other pages use this shortcodes."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:791
+msgid ""
+"Copy and paste this shortcode on all product pages. Edit a page by adding "
+"the requested values."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:799
+msgid "My Email Address: clodoaldoevangelista@gmail.com"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:909
+msgid "true"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:913
+msgid "false"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:917
+msgid "Administrator"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:921
+msgid "Editor"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:925
+msgid "Author"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:929
+msgid "Contributor"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:933
+msgid "Subscriber"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_OptionsManager.php:937
+msgid "Anyone"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:13
+msgid "Your email acount Pag Seguro"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:14
+msgid "Your Token Pag Seguro"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:15
+msgid "Name company / Your Name"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:16
+msgid "Environment"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:17
+msgid "Fill in address automatically? Disable if the post office fails ..."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:18
+msgid "Costs for the customer? If yes, the client will pay R$ 1.00"
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:19
+msgid ""
+"Initial charge type: example membership, registration, initial payment, "
+"registration fee, etc."
+msgstr ""
+
+#: CompraDiretaPagSeguroBoleto_Plugin.php:20
+msgid ""
+"Installments refer to: monthly fees, maintenance, subscription, school fees, "
+"annuity,etc."
+msgstr ""
+
+#: boleto/create/post_type_custom.php:10
+msgid "Add New"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:11
+msgid "Add New Boleto"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:12
+msgid "New Boleto"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:13
+msgid "Edit Boleto"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:14
+msgid "View Boleto"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:15
+msgid "All Boletos"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:16
+msgid "Search Boletos"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:17
+msgid "Parent Boletos:"
+msgstr ""
+
+#: boleto/create/post_type_custom.php:18
+msgid "No boletos found."
+msgstr ""
+
+#: boleto/create/post_type_custom.php:19
+msgid "No boletos found in Trash."
+msgstr ""
+
+#: boleto/pages/cadastra-usuario.php:32
+msgid "User created: "
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:62
+msgid "Please enter the Address valid! 5 to 130 alphanumeric characters"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:70
+msgid "Address"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:84
+msgid "Please enter the Number! 1 to 10 alphanumeric characters."
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:92
+msgid "Number"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:104
+msgid "Complement"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:116
+msgid "Please enter the neighborhood! 5 to 60 alphanumeric characters."
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:124
+msgid "Neighborhood"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:134 boleto/pages/form-dados-do-boleto.php:193
+msgid "Zip Code"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:146
+msgid "City"
+msgstr ""
+
+#: boleto/pages/consulta-cep.php:158
+msgid "State"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:8
+#: boleto/pages/form-dados-do-boleto-confirma.php:15
+msgid "Sorry, your session has expired. Please go back and try again."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:57
+#: boleto/pages/form-dados-do-boleto.php:47
+msgid "Check the data provided and click continue."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:101
+#: boleto/pages/form-dados-do-boleto.php:51
+msgid "Fill out the form below to register your"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:107
+#: boleto/pages/form-dados-do-boleto.php:60
+msgid "Amount: "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:113
+#: boleto/pages/form-dados-do-boleto.php:67
+msgid "Day for payment of the "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:113
+#: boleto/pages/form-dados-do-boleto.php:67
+msgid "Maximum 30 days."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:113
+#: boleto/pages/form-dados-do-boleto.php:67
+msgid "Example:"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:118
+#: boleto/pages/form-dados-do-boleto.php:71
+msgid "Due Date: "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:128
+#: boleto/pages/form-dados-do-boleto.php:85
+msgid "To generate a payment booklet, report the number of installments"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:129
+#: boleto/pages/form-dados-do-boleto.php:86
+msgid ""
+"The first maturity will be in 30 days and the rest will mature every 30 days."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:138
+#: boleto/pages/form-dados-do-boleto.php:91
+msgid "1 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:148
+#: boleto/pages/form-dados-do-boleto.php:99
+msgid "2 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:159
+#: boleto/pages/form-dados-do-boleto.php:106
+msgid "3 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:169
+#: boleto/pages/form-dados-do-boleto.php:112
+msgid "4 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:180
+#: boleto/pages/form-dados-do-boleto.php:119
+msgid "5 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:190
+#: boleto/pages/form-dados-do-boleto.php:128
+msgid "6 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:201
+#: boleto/pages/form-dados-do-boleto.php:136
+msgid "7 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:211
+#: boleto/pages/form-dados-do-boleto.php:142
+msgid "8 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:221
+#: boleto/pages/form-dados-do-boleto.php:149
+msgid "9 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:231
+#: boleto/pages/form-dados-do-boleto.php:156
+msgid "10 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:241
+#: boleto/pages/form-dados-do-boleto.php:162
+msgid "11 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:251
+#: boleto/pages/form-dados-do-boleto.php:169
+msgid "12 x "
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:257
+#: boleto/pages/form-dados-do-boleto.php:175
+msgid "YOUR PERSONAL DATA"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:258
+#: boleto/pages/form-dados-do-boleto.php:177
+msgid "Name"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:266
+#: boleto/pages/form-dados-do-boleto.php:185
+msgid "Email"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:281
+#: boleto/pages/form-dados-do-boleto.php:201
+msgid "Cell phone"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:289
+#: boleto/pages/form-dados-do-boleto.php:209
+msgid "CPF"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:325
+#: boleto/pages/form-dados-do-boleto.php:236
+msgid ""
+"I declare that I have read and agree with the privacy policy of this website."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:333
+#: boleto/pages/form-dados-do-boleto.php:244
+msgid "Privacy policy."
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:339
+#: boleto/pages/form-dados-do-boleto.php:248
+msgid "Continue"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:345
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:227
+msgid "What is the result of the sum of the two values ​​below? "
+msgstr ""
+
+#: boleto/pages/functions.php:69
+msgid "Back and correct the CPF"
+msgstr ""
+
+#: boleto/pages/functions.php:140
+msgid "Please enter the Name! 10 to 50 alphabetic characters."
+msgstr ""
+
+#: boleto/pages/functions.php:141
+msgid "Back and correct Name"
+msgstr ""
+
+#: boleto/pages/functions.php:148 boleto/pages/functions.php:152
+msgid "Back and correct Email"
+msgstr ""
+
+#: boleto/pages/functions.php:161
+msgid "Back and correct Cell Phone - Example (22)44445-4444"
+msgstr ""
+
+#: boleto/pages/functions.php:168
+msgid "Back and correct Adress. Minimum 10 and Maximum 140 char."
+msgstr ""
+
+#: boleto/pages/functions.php:177
+msgid "Back and correct Adress Number. Minimum 1 and Maximum 20 char."
+msgstr ""
+
+#: boleto/pages/functions.php:188
+msgid "Back and correct Adress Complement. Maximum 20 char."
+msgstr ""
+
+#: boleto/pages/functions.php:197
+msgid "Back and correct Neighborhood! 5 to 60 alphanumeric characters."
+msgstr ""
+
+#: boleto/pages/functions.php:210
+msgid "Back and correct Zip Code - Example 011151-000"
+msgstr ""
+
+#: boleto/pages/functions.php:231
+msgid "Back and correct the value. Minimum value 11,00"
+msgstr ""
+
+#: boleto/pages/functions.php:239
+msgid "Back and correct the number of installments; minimum 1 and maximum 12"
+msgstr ""
+
+#: boleto/pages/functions.php:250
+msgid "Back and correct due date (dd-mm-yyyy). Maximum 30 days."
+msgstr ""
+
+#: boleto/pages/functions.php:260
+msgid "The sum was wrong! Please go back and try again."
+msgstr ""
+
+#: boleto/pages/functions.php:274
+msgid ""
+"An error has occurred while processing your payment, please review your data "
+"and try again. Or contact us for assistance."
+msgstr ""
+
+#: boleto/pages/functions.php:276 boleto/pages/functions.php:278
+#: boleto/pages/functions.php:280 boleto/pages/functions.php:282
+#: boleto/pages/functions.php:284 boleto/pages/functions.php:286
+msgid ""
+"Please enter with a valid phone number with DDD. Example: (11) 44445-4444."
+msgstr ""
+
+#: boleto/pages/functions.php:288 boleto/pages/functions.php:290
+#: boleto/pages/functions.php:292 boleto/pages/functions.php:294
+#: boleto/pages/functions.php:296
+msgid "Please enter with a valid zip code number."
+msgstr ""
+
+#: boleto/pages/functions.php:298
+msgid "Please enter with a valid CPF number."
+msgstr ""
+
+#: boleto/pages/functions.php:300
+msgid "No"
+msgstr ""
+
+#: boleto/pages/functions.php:302
+msgid "Please select a bank to make payment by bank transfer."
+msgstr ""
+
+#: boleto/pages/functions.php:304
+msgid "Credit card holder CPF is required."
+msgstr ""
+
+#: boleto/pages/functions.php:306
+msgid "Credit card holder birthdate is required."
+msgstr ""
+
+#: boleto/pages/functions.php:308
+msgid "Credit card holder name is required."
+msgstr ""
+
+#: boleto/pages/functions.php:310 boleto/pages/functions.php:312
+msgid "Credit card holder phone is required."
+msgstr ""
+
+#: boleto/pages/functions.php:314 boleto/pages/functions.php:316
+msgid ""
+"The address complement is too long, it cannot be more than 40 characters."
+msgstr ""
+
+#: boleto/pages/functions.php:318
+msgid "<strong>Neighborhood</strong> is a required field."
+msgstr ""
+
+#: boleto/pages/functions.php:320
+msgid "Credit card holder CPF invalid."
+msgstr ""
+
+#: boleto/pages/functions.php:322
+msgid ""
+"Invalid email domain. You must use an email @sandbox.pagseguro.com.br while "
+"you are using the PagSeguro Sandbox."
+msgstr ""
+
+#: boleto/pages/functions.php:326
+msgid "The customer email can not be the same as the PagSeguro account owner."
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:24
+msgid ""
+"Go to the Wordpress Admin Panel; Plugins; Boleto Pag Seguro Seguro and "
+"change preferences."
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:28
+msgid "Take a quiz generating a donation for this plugin and get free support."
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:31
+msgid ""
+"Generates the Compra Direta Pag Seguro Boleto without typing the password. "
+"Documents in sequential order from 1 to 10. Version 0.5+ update settings"
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:48 boleto/pages/pagamento-boleto.php:62
+msgid "Ref: "
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:90
+msgid "You will receive an email with transaction data in "
+msgstr ""
+
+#: boleto/pages/pagamento-boleto.php:98
+msgid ""
+"It looks like you already generated this document (s). Check your email to "
+"confirm. If I`m wrong you should go back to the form and start over. Excuse "
+"me."
+msgstr ""
+
+#: boleto/pages/post_remote_request.php:38
+msgid "Document successfully generated!"
+msgstr ""
+
+#: boleto/pages/post_remote_request.php:39
+msgid "Print Document"
+msgstr ""
+
+#: boleto/pages/post_remote_request.php:43
+msgid "You can also pay with the barcode:"
+msgstr ""
+
+#: boleto/reset/all-pages.php:12
+msgid "First page reset successfully."
+msgstr ""
+
+#: boleto/reset/all-pages.php:22
+msgid "Second page successfully redefined."
+msgstr ""
+
+#: boleto/reset/all-pages.php:34
+msgid "Third page successfully redefined."
+msgstr ""
+
+#: boleto/reset/all-pages.php:46
+msgid "Fourth page successfully redefined."
+msgstr ""
+
+#: compra-direta-pag-seguro-boleto.php:60
+msgid ""
+"Error: plugin \"Compra Direta Pag Seguro Boleto\" requires a newer version "
+"of PHP to be running."
+msgstr ""
+
+#: compra-direta-pag-seguro-boleto.php:62
+msgid "Minimal version of PHP required: "
+msgstr ""
+
+#: compra-direta-pag-seguro-boleto.php:64
+msgid "Your server's PHP version: "
+msgstr ""
